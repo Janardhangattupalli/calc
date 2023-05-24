@@ -1,0 +1,24 @@
+.casio {
+    width: 230px;
+    margin:0 auto;
+    border-radius: 100px;
+    
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 7px;
+    border-radius: 100px;
+    background-color: aqua;
+  }
+  body{
+    background:url(calc.jpg);
+    background-size:cover;
+  }
